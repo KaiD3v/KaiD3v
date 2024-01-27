@@ -21,4 +21,4 @@
 Eager programming enthusiast aspiring to one day enhance people's lives through technology.
 
 ## Contact me :
-- [E-Mail](kaikricardo99@gmail.com)
+- [E-Mail](mailto:kaikricardo99@gmail.com)
