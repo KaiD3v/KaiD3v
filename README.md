@@ -1,8 +1,7 @@
 ### Hello World! I am Kaique Melo!
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-ricardo-de-melo-98969b256/)
-
-[![Blog]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white))]([https://www.linkedin.com/in/kaique-ricardo-de-melo-98969b256/](https://kaidev.vercel.app/))
+[![Blog](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.linkedin.com/in/kaique-ricardo-de-melo-98969b256/)
 
 ![Kaique GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiD3v&show_icons=true&theme=dracula)
 
