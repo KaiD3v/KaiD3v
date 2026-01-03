@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate programmer with a focus on front-end and back-end development, aiming to make a positive impact through technology.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-ricardo-de-melo-98969b256/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kaidev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kaidev.com.br)
 
 ---
 
