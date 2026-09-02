@@ -95,12 +95,13 @@ Na **[N2](https://n2-codeworks.vercel.app/)**, transformo necessidades de negóc
 
 ## `04 / atividade`
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KaiD3v&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=E8B84A&icon_color=3ECFCF&text_color=8B9AAB&ring_color=3ECFCF&locale=pt-br&rank_icon=github" alt="Estatísticas de KaiD3v no GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiD3v&layout=compact&hide_border=true&bg_color=0B0F14&title_color=E8B84A&text_color=8B9AAB&langs_count=6" alt="Linguagens mais usadas por KaiD3v" />
-</div>
+```text
+entender o problema → construir o essencial → publicar → medir → iterar
+```
 
-> Estatísticas representam apenas repositórios públicos e não definem experiência ou senioridade.
+Meu GitHub é o registro desse processo: produtos em evolução, experimentos e decisões técnicas transformadas em código.
+
+**[Explorar meus repositórios →](https://github.com/KaiD3v?tab=repositories)**
 
 ## `05 / connect`
 
