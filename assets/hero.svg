@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Kaique — desenvolvedor e indie hacker</title>
+  <desc id="desc">Banner escuro inspirado em terminal, com grade técnica e detalhes em ciano e âmbar.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1B2633" stroke-width="1"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3.5H1200" stroke="#FFFFFF" stroke-opacity=".018"/>
+    </pattern>
+    <radialGradient id="glow" cx="45%" cy="35%" r="70%">
+      <stop offset="0" stop-color="#E8B84A" stop-opacity=".09"/>
+      <stop offset=".52" stop-color="#3ECFCF" stop-opacity=".03"/>
+      <stop offset="1" stop-color="#0B0F14" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="14" fill="#0B0F14"/>
+  <rect width="1200" height="360" rx="14" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="14" fill="url(#glow)"/>
+  <rect width="1200" height="360" rx="14" fill="url(#scan)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="13" fill="none" stroke="#263443"/>
+
+  <g font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace">
+    <text x="52" y="46" fill="#8B9AAB" font-size="14" font-weight="700" letter-spacing="1.7">KAID3V://GITHUB-PROFILE</text>
+    <text x="1095" y="46" fill="#8B9AAB" font-size="14" font-weight="700" letter-spacing="1.7">ONLINE</text>
+    <circle cx="1075" cy="41" r="4" fill="#3ECFCF"/>
+    <circle cx="1075" cy="41" r="9" fill="#3ECFCF" opacity=".18" filter="url(#softGlow)"/>
+    <path d="M52 65H1148" stroke="#263443"/>
+
+    <text x="52" y="116" fill="#3ECFCF" font-size="17" font-weight="700">kaiD3v@home</text>
+    <text x="178" y="116" fill="#E8B84A" font-size="17">:~$</text>
+    <text x="218" y="116" fill="#E6EDF3" font-size="17">whoami</text>
+
+    <text x="52" y="158" fill="#E8B84A" font-size="15" font-weight="700" letter-spacing="2.2">DESENVOLVEDOR &amp; INDIE HACKER</text>
+    <text x="48" y="252" fill="#E6EDF3" font-family="Arial Narrow, Roboto Condensed, Segoe UI, sans-serif" font-size="104" font-weight="800" letter-spacing="-4">Kaique</text>
+
+    <text x="57" y="290" fill="#3ECFCF" font-size="15" font-weight="700">KaiD3v</text>
+    <text x="122" y="290" fill="#8B9AAB" font-size="15">· @kaid3v</text>
+    <text x="52" y="326" fill="#8B9AAB" font-size="17">Produtos digitais, software sob medida e experimentos indie.</text>
+  </g>
+
+  <g transform="translate(902 112)" fill="none" stroke-linecap="square">
+    <path d="M0 0h160v160H0z" stroke="#263443"/>
+    <path d="M16 16h28M16 16v28M144 16h-28M144 16v28M16 144h28M16 144v-28M144 144h-28M144 144v-28" stroke="#3ECFCF" stroke-opacity=".65" stroke-width="2"/>
+    <path d="M47 53l-27 27 27 27M113 53l27 27-27 27M92 36L68 124" stroke="#E6EDF3" stroke-width="7"/>
+    <circle cx="19" cy="19" r="3" fill="#E8B84A" stroke="none"/>
+    <circle cx="141" cy="141" r="3" fill="#3ECFCF" stroke="none"/>
+  </g>
+</svg>
